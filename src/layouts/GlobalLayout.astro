@@ -22,4 +22,10 @@ const { title } = Astro.props;
   <main>
     <slot />
   </main>
+
+  <script>
+    import flamethrower from "flamethrower-router";
+
+    const router = flamethrower();
+  </script>
 </html>

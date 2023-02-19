@@ -7,6 +7,7 @@ specifiers:
   '@astrojs/tailwind': ^3.0.1
   '@fontsource/inter': ^4.5.15
   astro: ^2.0.14
+  flamethrower-router: 0.0.0-meme.12
   tailwindcss: ^3.0.24
 
 dependencies:
@@ -16,6 +17,7 @@ dependencies:
   '@astrojs/tailwind': 3.0.1_hf2kjfio2dr6w52rh4mpociq2u
   '@fontsource/inter': 4.5.15
   astro: 2.0.14
+  flamethrower-router: 0.0.0-meme.12
   tailwindcss: 3.2.7
 
 packages:
@@ -1555,6 +1557,10 @@ packages:
     dependencies:
       micromatch: 4.0.5
       pkg-dir: 4.2.0
+    dev: false
+
+  /flamethrower-router/0.0.0-meme.12:
+    resolution: {integrity: sha512-PWcNrjzItwk61RTk/SbbKJNcAgl6qCXH8xkZjGjUGV/dgKAnURci+k+Yk8emubUQWTdAd1kSqujy0VRjoeEgxg==}
     dev: false
 
   /format/0.2.2:

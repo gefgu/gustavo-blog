@@ -16,6 +16,7 @@
 		"@astrojs/tailwind": "^3.0.1",
 		"@fontsource/inter": "^4.5.15",
 		"astro": "^2.0.14",
+		"flamethrower-router": "0.0.0-meme.12",
 		"tailwindcss": "^3.0.24"
 	}
 }
